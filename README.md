@@ -13,3 +13,11 @@ Please see the document "Nano_RET_User_Guide.pdf" for more information on numeri
 `./Nano_RET.x`
 and follow the prompts
 
+- The following data are generated and written to files in the DATA/ folder for subsequent analysis
+
+-- The absorption and scattering cross sections of the coupled NP/Dye systems, along with the scattering and absorption cross sections of the uncoupled NP and uncoupled Dye under the same excitation source
+
+-- The ground- and excited-state populations on the NP and Dye systems (coupled together) as a function of time during the simulation
+
+-- The time-dependent dipole moment of the NP and Dye systems (coupled together)
+
